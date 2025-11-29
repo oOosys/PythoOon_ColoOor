@@ -1,3 +1,3 @@
-# colorChoice-PyQt6
+# PythoOn_ColoOor
 
-Visit colorChoice-OpenCV repository ( https://github.com/oOosys/colorChoice-pythonOpenCV ) for screenshots and futher information. The only change compared to the previous version of <b>colorChoice</b> is adding Lab as color model which you can change to by pressing 'a'. 
+Visit colorChoice-OpenCV repository ( https://github.com/oOosys/colorChoice-pythonOpenCV ) for screenshots and futher information. The main change compared to <b>colorChoice-pythonOpenCv</b> is adding Lab as color model which you can select pressing 'a' and upgrading to PyQt6 . 
